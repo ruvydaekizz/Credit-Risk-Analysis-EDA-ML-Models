@@ -1,5 +1,5 @@
 # Credit-Risk-Analysis-EDA-ML-Models
-# Techcareer.net Veri Bilimi 101 Bootcamp Mezuniyet Projesi
+## Techcareer.net Veri Bilimi 101 Bootcamp Mezuniyet Projesi
 
  <h3>Techcareer.net Veri Bilimi 101 Bootcamp eğitimi sonunda edindiğim bilgiler doğrultusunda tamamlamış olduğum Data Science ve Machine Learning modelleri kullanarak geliştirmiş olduğum bir projedir. </h3><br>
 
