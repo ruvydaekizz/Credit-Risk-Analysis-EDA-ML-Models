@@ -5,27 +5,32 @@
 
  <h4>Biraz daha özele inecek olursak, tamamlanmış proje adımlarımız aşağıdaki gibidir:</h4>
 
- ![p0](https://github.com/user-attachments/assets/0d207443-6216-48f2-b327-51d966c6d249)
+ ![p0](https://github.com/user-attachments/assets/4912f563-324d-4d06-8649-b0d420011024)
+
+ 
  <br>
 
  <h4>- Proje'den kesitler:</h4> <br>
  
- ![p1](https://github.com/user-attachments/assets/14516464-f0a7-42e1-ba58-53b97de3c985)
+ ![p1](https://github.com/user-attachments/assets/79172c53-d63b-49f9-a5dd-e1c68ff35637)
+
  <br>
 
  <h4>- Logistic Regression ile kurulan modelin incelenmesi ve model metriklerinin değerlendirilmesi:</h4> <br>
  
- ![p2](https://github.com/user-attachments/assets/167da835-6d83-4605-8b2d-20a92744f617)
+ ![p2](https://github.com/user-attachments/assets/3dcd8e28-809c-4d35-b20c-3458aa366b15)
+
  <br>
 
  <h4>- KNN (K-Nearest Neighbors) Sınıflandırma ile kurulan modelin incelenmesi ve model metriklerinin değerlendirilmesi:</h4> <br>
  
- ![p3](https://github.com/user-attachments/assets/3c23f957-ad16-46ca-809e-c08048a24c01)
+ ![p3](https://github.com/user-attachments/assets/9a06ac91-2f4b-4681-a061-6a8affad8f4e)
+
  <br>
 
  <h4>- Kurulan modellerin metriklerinin karşılaştırılması:</h4> <br>
  
- ![p4](https://github.com/user-attachments/assets/69a7aa37-4b4d-4eb2-99e6-da494f5705d9)
+ ![p4](https://github.com/user-attachments/assets/f045a772-2db7-4577-bb87-21551d876d25)
 
 
  <h4>Proje detaylarını incelemekten ve geri bildirim vermekten lütfen çekinmeyin! :) Değerli yorumlarınız çok kıymetli, teşekkürler :) </h4>
